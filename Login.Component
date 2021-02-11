@@ -1,0 +1,94 @@
+
+<h5>İletişim</h5>
+
+<div class="container mt-5">
+  <router-outlet></router-outlet>
+  <div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-header">
+        <h5>Oturum Aç</h5>
+      </div>
+        <div class="card-body"></div>
+           <div class="form-group">
+           <label>E-Posta :</label>
+            <input type="text" name="mail" #mail class="Form-control">
+          </div>
+          <div class="form-group">
+            <label>Parola :</label>
+             <input type="password" name="parola" #parola class="Form-control">
+           </div>
+        <div class="card-footer">
+          <button class="btn btn-outline-primary" (click)="GirisYap(mail.value,parola.value)">Oturum Aç</button>
+        </div>
+      </div>
+  </div>
+</div>
+<footer class="section-footer border-top bg">
+  <div class="container">
+    <section class="footer-top  padding-y">
+      <div class="row">
+        <aside class="col-md col-6">
+          <h6 class="title">Markalar</h6>
+          <ul class="list-unstyled">
+            <li> <a href="#">Adidas</a></li>
+            <li> <a href="#">Puma</a></li>
+            <li> <a href="#">Reebok</a></li>
+            <li> <a href="#">Nike</a></li>
+          </ul>
+        </aside>
+        <aside class="col-md col-6">
+          <h6 class="title">Şirketimiz</h6>
+          <ul class="list-unstyled">
+            <li> <a href="#">Hakkımızda</a></li>
+            <li> <a href="#">Mağaza Bul</a></li>
+            <li> <a href="#">Kullanıcı Sözleşmesi</a></li>
+            <li> <a href="#">Site Haritası</a></li>
+          </ul>
+        </aside>
+        <aside class="col-md col-6">
+          <h6 class="title">Yardım</h6>
+          <ul class="list-unstyled">
+            <li> <a href="#">İletişim</a></li>
+            <li> <a href="#">Para İadesi</a></li>
+            <li> <a href="#">Sipariş Bilgisi</a></li>
+            <li> <a href="#">Kargo Bilgisi</a></li>
+          </ul>
+        </aside>
+        <aside class="col-md col-6">
+          <h6 class="title">Hesap</h6>
+          <ul class="list-unstyled">
+            <li> <a href="#"> Kullanıcı Girişi </a></li>
+            <li> <a href="#"> Hesap Ayarları </a></li>
+            <li> <a href="#"> Sepetim </a></li>
+          </ul>
+        </aside>
+        <aside class="col-md">
+          <h6 class="title">Social</h6>
+          <ul class="list-unstyled">
+            <li><a href="#"> <i class="fab fa-facebook"></i> Facebook </a></li>
+            <li><a href="#"> <i class="fab fa-twitter"></i> Twitter </a></li>
+            <li><a href="#"> <i class="fab fa-instagram"></i> Instagram </a></li>
+            <li><a href="#"> <i class="fab fa-youtube"></i> Youtube </a></li>
+          </ul>
+        </aside>
+      </div> <!-- row.// -->
+    </section>  <!-- footer-top.// -->
+
+    <section class="footer-bottom row">
+      <div class="col-md-2">
+        <p class="text-muted">   2021 Hepsi Şurada </p>
+      </div>
+      <div class="col-md-8 text-md-center">
+        <span  class="px-2">info@hepsisuradacom</span>
+        <span  class="px-2">+123 456 789</span>
+      </div>
+      <div class="col-md-2 text-md-right text-muted">
+        <i class="fab fa-lg fa-cc-visa"></i> 
+        <i class="fab fa-lg fa-cc-paypal"></i> 
+        <i class="fab fa-lg fa-cc-mastercard"></i>
+      </div>
+    </section>
+  </div><!-- //container -->
+</footer>
