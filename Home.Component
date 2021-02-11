@@ -1,0 +1,264 @@
+<main>
+<!-- slider Area Start-->
+  <div class="slider-area slider-height" data-background="assets/img/hero/h1_hero.jpg">
+      <div class="slider-active">
+          <!-- Single Slider -->
+          <div class="single-slider">
+              <div class="slider-cap-wrapper">
+                  <div class="hero__caption">
+                      <p data-animation="fadeInLeft" data-delay=".2s">Efsane Cuma İndirimleri Başladı!</p>
+                      <h2 data-animation="fadeInLeft" data-delay=".5s">4 Şubat Perşembe Günü Gecesinden itibaren </h2>
+                      <h3 data-animation="fadeInLeft" data-delay=".5s">İnanılmaz İndirimler! </h3>
+                      <!-- Hero Btn -->
+                      
+                  </div>
+                  <div class="hero__img">
+                      <img src="assets/img/hero/hero_img.jpg" alt="">
+                  </div>
+              </div>
+          </div>
+          <!-- Single Slider -->
+          <div class="single-slider">
+              <div class="slider-cap-wrapper">
+                  <div class="hero__caption">
+                      <p data-animation="fadeInLeft" data-delay=".2s">Aradığınız Herşey Burada!</p>
+                      <h1 data-animation="fadeInLeft" data-delay=".5s">Cebinizi Yakmayan İnanılmaz Fiyatlar</h1>
+                      
+                    
+                  </div>
+                  <div class="hero__img">
+                      <img src="assets/img/hero/hero_img2.jpg" alt="">
+                  </div>
+              </div>
+          </div>
+      </div>
+      <!-- slider-footer Start -->
+      <div class="slider-footer section-bg d-none d-sm-block">
+          <div class="footer-wrapper">
+              <!-- single -->
+              <div class="single-caption">
+                  <div class="single-img">
+                      <img src="assets/img/hero/hero_footer.png" alt="">
+                  </div>
+              </div>
+              <!-- single -->
+              <div class="single-caption">
+                  <div class="caption-icon">
+                      <span class="flaticon-clock"></span>
+                  </div>
+                  <div class="caption">
+                      <p>Herzaman Ulaşabiliceğiniz</p>
+                      <p>Müşteri Hizmetleri</p>
+                  </div>
+              </div>
+              <!-- single -->
+              <div class="single-caption">
+                  <div class="caption-icon">
+                      <span class="flaticon-like"></span>
+                  </div>
+                  <div class="caption">
+                      <p>ÜRÜN İADE</p>
+                      <p>GARANTİSİ</p>
+                  </div>
+              </div>
+              <!-- single -->
+              <div class="single-caption">
+                  <div class="caption-icon">
+                      <span class="flaticon-money"></span>
+                  </div>
+                  <div class="caption">
+                      <p>KALİTELİ VE</p>
+                      <p>UCUZ ÜRÜNLER</p>
+                  </div>
+              </div>
+            
+          </div>
+      </div>
+      <!-- slider-footer End -->
+
+  </div>
+  <!-- slider Area End-->
+  <!-- About Law Start-->
+  <div class="about-low-area section-padding2">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-6 col-md-12">
+                  <div class="about-caption mb-50">
+                      <!-- Section Tittle -->
+                      <div class="section-tittle mb-35">
+                          <span>Hepsi Şurada</span>
+                          <h2>Türkiye ve bölgesinin lider e-ticaret platformu HepsiŞurada olarak,</h2>
+                      </div>
+                      <p>40’a yakın kategoride, 30 milyonu aşkın ürün çeşidini müşterilerimizle buluşturuyoruz.</p>
+                      <p>Silikon Vadisi ile Kapalı Çarşı kültürünü birleştiren, veri ile tecrübeyi harmanlayan ekibimizle aylık 200 milyonun üzerinde ziyaretin ihtiyaçlarını en iyi şekilde karşılamak için çalışmaya devam ediyoruz.</p>
+                     
+                  </div>
+              </div>
+              <div class="col-lg-6 col-md-12">
+                  <!-- about-img -->
+                  <div class="about-img ">
+                      <div class="about-font-img d-none d-lg-block">
+                          <img src="assets/img/gallery/about2.png" alt="">
+                      </div>
+                      <div class="about-back-img ">
+                          <img src="assets/img/gallery/about1.png" alt="">
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- About Law End-->
+  <!-- Services Area Start -->
+  <div class="services-area pt-150 pb-150" data-background="assets/img/gallery/section_bg02.jpg">
+      <div class="container">
+          <div class="row justify-content-center">
+              <div class="col-lg-6 col-md-10">
+                  <!-- Section Tittle -->
+                  <div class="section-tittle text-center mb-80">
+                      <span>Müşteri Menmuniyeti Herzaman Önceliğimizdir.</span>
+                      <h2>Menmun Kalmadığınız Ürünleri Müşteri Temsilcimizle İletişime Geçerek Anında İade Edebilirsiniz.</h2>
+                  </div>
+              </div>
+          </div>
+          <div class="single-testimonial text-center">
+            <!-- Testimonial Content -->
+           <div class="testimonial-caption ">
+               <div class="testimonial-top-cap">
+                   <img src="assets/img/gallery/testimonial.png" alt="">
+                   <p>Hepsi Şurada İstanbul Bölge Müdürümüz</p>
+               </div>
+               <!-- founder -->
+               <div class="testimonial-founder d-flex align-items-center justify-content-center">
+                   <div class="founder-img">
+                       <img src="assets/img/testmonial/Homepage_testi.png" alt="">
+                   </div>
+                  <div class="founder-text">
+                       <span>Hüseyin</span>
+                       <p>ALTINKAZAN</p>
+                  </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
+
+          <div class="home-blog-area section-padding30">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-7 col-md-10">
+                        <!-- Section Tittle -->
+                        <div class="section-tittle text-center mb-70">
+                            <span>Ödeme seçenekleri</span>
+                            <h2>Hepsiburada’nın ödeme kolaylıklarıyla alışverişlerinizi avantajlı fiyatlarla, hızlı ve güvenli bir şekilde yapabilirsiniz.</h2>
+                        </div> 
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-6">
+                        <!-- single-david -->
+                        <div class="single-blogs mb-30">
+                            <div class="blog-images">
+                                <img src="assets/img/gallery/blog1.png" alt="">
+                            </div>
+                            <div class="blog-captions">
+                                <h2><a href="#">Kredi Kartınız İle Güvenli ve Hızlı Bir Şekilde Ödeme Yapabalirsiniz.</a></h2>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6">
+                        <!-- single-david -->
+                        <div class="single-blogs mb-30">
+                            <div class="blog-images">
+                                <img src="assets/img/gallery/blog2.png" alt="">
+                            </div>
+                            <div class="blog-captions">
+                              
+                                <h2><a href="#">Kapıda Ödeme Seçeneği İle Ürünü Kargo İle Geldiğinde Ödemesini Yapabilirsiniz.</a></h2>
+                             
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+<footer>
+  <!-- Footer Start-->
+  <footer class="section-footer border-top bg">
+    <div class="container">
+      <section class="footer-top  padding-y">
+        <div class="row">
+          <aside class="col-md col-6">
+            <h6 class="title">Markalar</h6>
+            <ul class="list-unstyled">
+              <li> <a href="#">Adidas</a></li>
+              <li> <a href="#">Puma</a></li>
+              <li> <a href="#">Reebok</a></li>
+              <li> <a href="#">Nike</a></li>
+            </ul>
+          </aside>
+          <aside class="col-md col-6">
+            <h6 class="title">Şirketimiz</h6>
+            <ul class="list-unstyled">
+              <li> <a href="#">Hakkımızda</a></li>
+              <li> <a href="#">Mağaza Bul</a></li>
+              <li> <a href="#">Kullanıcı Sözleşmesi</a></li>
+              <li> <a href="#">Site Haritası</a></li>
+            </ul>
+          </aside>
+          <aside class="col-md col-6">
+            <h6 class="title">Yardım</h6>
+            <ul class="list-unstyled">
+              <li> <a href="#">İletişim</a></li>
+              <li> <a href="#">Para İadesi</a></li>
+              <li> <a href="#">Sipariş Bilgisi</a></li>
+              <li> <a href="#">Kargo Bilgisi</a></li>
+            </ul>
+          </aside>
+          <aside class="col-md col-6">
+            <h6 class="title">Hesap</h6>
+            <ul class="list-unstyled">
+              <li> <a href="#"> Kullanıcı Girişi </a></li>
+              <li> <a href="#"> Hesap Ayarları </a></li>
+              <li> <a href="#"> Sepetim </a></li>
+            </ul>
+          </aside>
+          <aside class="col-md">
+            <h6 class="title">Social</h6>
+            <ul class="list-unstyled">
+              <li><a href="#"> <i class="fab fa-facebook"></i> Facebook </a></li>
+              <li><a href="#"> <i class="fab fa-twitter"></i> Twitter </a></li>
+              <li><a href="#"> <i class="fab fa-instagram"></i> Instagram </a></li>
+              <li><a href="#"> <i class="fab fa-youtube"></i> Youtube </a></li>
+            </ul>
+          </aside>
+        </div> <!-- row.// -->
+      </section>  <!-- footer-top.// -->
+  
+      <section class="footer-bottom row">
+        <div class="col-md-2">
+          <p class="text-muted">   2021 Hepsi Şurada </p>
+        </div>
+        <div class="col-md-8 text-md-center">
+          <span  class="px-2">info@hepsisuradacom</span>
+          <span  class="px-2">+123 456 789</span>
+        </div>
+        <div class="col-md-2 text-md-right text-muted">
+          <i class="fab fa-lg fa-cc-visa"></i> 
+          <i class="fab fa-lg fa-cc-paypal"></i> 
+          <i class="fab fa-lg fa-cc-mastercard"></i>
+        </div>
+      </section>
+    </div><!-- //container -->
+  </footer>
+  <!-- Footer End-->
+</footer>
+<!-- Scroll Up -->
+<div id="back-top" >
+  <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
+</div>
